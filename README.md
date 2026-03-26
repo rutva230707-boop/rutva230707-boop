@@ -1,12 +1,11 @@
-<h1 align="center">HEY THERE 👋, Rutva HERE!</h1>    
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1 align="center">HEY THERE 👋, Rutva HERE!</h1>  
+
 <p align="center">
 🎓 B.Tech Computer Engineering Student  
 🔐 Cybersecurity & Cloud Enthusiast  
 ☁️ AWS Cloud Club Member  
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center">
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white">
 <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF00">
