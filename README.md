@@ -5,10 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Focused-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-Learning-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub-Active-grey?style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;AWS+Cloud+Learner;Always+Learning..." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Focused-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Learning-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-Active-grey?style=for-the-badge" />
 </p>
 
 ---
@@ -34,6 +38,7 @@ C • JavaScript • HTML • CSS • Git • Linux
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rutva230707-boop&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutva230707-boop" />
 </p>
 
 ---
