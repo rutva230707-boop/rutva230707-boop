@@ -1,58 +1,61 @@
-<h1 align="center">Rutva</h1>
+# 👨‍💻 Rutva | Cybersecurity Enthusiast
 
 <p align="center">
-🔐 Cybersecurity • Cloud • B.Tech Student
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Learner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Linux-Beginner-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-Active-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;AWS+Cloud+Learner;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Focused-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-Learning-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-Active-grey?style=for-the-badge" />
-</p>
-
----
-
-### About
-- Cybersecurity & Cloud enthusiast  
-- Learning Linux, Networking, AWS  
-- Building practical projects  
-
----
-
-### Skills
-C • JavaScript • HTML • CSS • Git • Linux  
-
----
-
-### Project
-**Calmify**  
-https://github.com/rutva230707-boop/Calmify  
-
----
-
-### GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutva230707-boop&show_icons=true&hide_border=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutva230707-boop&theme=dark&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=23&center=true&vCenter=true&width=550&lines=Cybersecurity+Explorer;AWS+Cloud+Club+Member;Future+Security+Engineer" />
 </p>
 
 ---
 
-### Contribution Graph
+## 🧠 About Me
+🎓 B.Tech Computer Engineering Student  
+🔐 Passionate about Cybersecurity & Ethical Hacking  
+☁️ AWS Cloud Club Member  
+💡 Interested in Cloud Security & Networking  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,aws,linux,bash" />
+</p>
+
+---
+
+## 🚀 Projects
+🌿 **Calmify – Mental Health Website**  
+🔹 Breathing exercises  
+🔹 Anxiety support  
+🔹 Clean & calming UI  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rutva230707-boop&show_icons=true&theme=chartreuse-dark" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=rutva230707-boop&theme=chartreuse-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/rutva230707-boop/rutva230707-boop/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 💻 Fun Side
+## 🧑‍💻 Cyber Terminal
 ```bash
+> Access granted...
 > Initializing Rutva.exe
-> Cyber mode: ON 🔐
-> Learning: Cybersecurity | Cloud
-> Status: Consistent & improving 🚀
+> Cybersecurity mode: ON 🔐
+> Status: Learning & Growing 🚀
