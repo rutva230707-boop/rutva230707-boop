@@ -1,10 +1,21 @@
-<h1 align="center">Rutva</h1>
+<h1 align="center">HEY THERE 👋, **Rutva** HERE</h1>
 
 <p align="center">
-Cybersecurity • Cloud • B.Tech Student
+🎓 B.Tech Computer Engineering Student  
+🔐 Cybersecurity & Cloud Enthusiast  
+☁️ AWS Cloud Club Member  
 </p>
 
 <p align="center">
+  ![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Engineering-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Enthusiast-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF00)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Learner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-Beginner-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Active-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)
+![HTML](https://img.shields.io/badge/HTML-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-2563eb?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity-Focused-111827?style=for-the-badge&logoColor=22c55e" />
   <img src="https://img.shields.io/badge/AWS-Cloud-1e293b?style=for-the-badge&logoColor=f59e0b" />
