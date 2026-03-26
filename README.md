@@ -27,7 +27,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center ## 🧠 About>
+<p align="center" ## 🧠 About>
 - Cybersecurity & Cloud focused  
 - Learning Linux, Networking, AWS  
 - Building practical projects</p>  
