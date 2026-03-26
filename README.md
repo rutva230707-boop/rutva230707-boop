@@ -1,12 +1,12 @@
 <h1 align="center">HEY THERE 👋, Rutva HERE!</h1>    
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 🎓 B.Tech Computer Engineering Student  
 🔐 Cybersecurity & Cloud Enthusiast  
 ☁️ AWS Cloud Club Member  
 </p>
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white">
 <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF00">
@@ -26,14 +26,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=38bdf8&size=22&center=true&vCenter=true&width=500&lines=Cybersecurity+Explorer;AWS+Cloud+Learner;Future+Security+Engineer" />
 </p>
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧠 About
 - Cybersecurity & Cloud focused  
 - Learning Linux, Networking, AWS  
 - Building practical projects  
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
@@ -47,32 +47,32 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,aws&theme=dark" />
 </p>
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Projects
 
 **Calmify**  
-Mental health website with calming UI and breathing exercises  
+🔹Mental health website with calming UI 
+🔹breathing exercises  
 
 **Upcoming: Cybersecurity Tools**  
 Password checker • Security utilities • Practice-based tools  
-
----
+**Still working on 2-3 projects....**  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 GitHub
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rutva230707-boop&show_icons=true&theme=github_dark&hide_border=true&hide=stars" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=rutva230707-boop&theme=github-dark&hide_border=true" />
 </p>
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🐍 Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/rutva230707-boop/rutva230707-boop/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧑‍💻 Cyber Terminal
 ```bash
@@ -89,4 +89,4 @@ Error: overthinking detected ⚠️
 Success ✔️
 
 > status
-Learning | Debugging life | Drinking chai ☕
+Learning | Debugging 
