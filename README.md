@@ -25,12 +25,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=38bdf8&size=22&center=true&vCenter=true&width=500&lines=Cybersecurity+Explorer;AWS+Cloud+Learner;Future+Security+Engineer" />
 </p>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<p align="center" ## 🧠 About>
-- Cybersecurity & Cloud focused  
-- Learning Linux, Networking, AWS  
-- Building practical projects</p>  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
