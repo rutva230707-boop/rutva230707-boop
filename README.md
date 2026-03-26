@@ -8,10 +8,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-2563eb?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Focused-111827?style=for-the-badge&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-1e293b?style=for-the-badge&logoColor=f59e0b" />
-  <img src="https://img.shields.io/badge/Linux-Learning-374151?style=for-the-badge&logoColor=facc15" />
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white">
+<img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF00">
+<img src="https://img.shields.io/badge/AWS-Cloud%20Learner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
+<img src="https://img.shields.io/badge/Linux-Beginner-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Git-Active-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/HTML-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-2563eb?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-Focused-111827?style=for-the-badge&logoColor=22c55e" />                                                       <img src="https://img.shields.io/badge/AWS-Cloud-1e293b?style=for-the-badge&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/Linux-Learning-374151?style=for-the-badge&logoColor=facc15" />
 </p>
 
 <p align="center">
