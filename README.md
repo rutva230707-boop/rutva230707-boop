@@ -1,23 +1,22 @@
 # 👨‍💻 Rutva | Cybersecurity Enthusiast
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Learner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Linux-Beginner-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-Active-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-5A4FCF?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Focused-111827?style=for-the-badge&logo=hackthebox&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-1f2937?style=for-the-badge&logo=amazonaws&logoColor=f59e0b" />
+  <img src="https://img.shields.io/badge/Linux-Learning-374151?style=for-the-badge&logo=linux&logoColor=facc15" />
+  <img src="https://img.shields.io/badge/GitHub-Active-0f172a?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=23&center=true&vCenter=true&width=550&lines=Cybersecurity+Explorer;AWS+Cloud+Club+Member;Future+Security+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22c55e&size=23&center=true&vCenter=true&width=550&lines=Cybersecurity+Explorer;AWS+Cloud+Club+Member;Future+Security+Engineer" />
 </p>
 
 ---
 
 ## 🧠 About Me
 🎓 B.Tech Computer Engineering Student  
-🔐 Passionate about Cybersecurity & Ethical Hacking  
+🔐 Focused on Cybersecurity & Ethical Hacking  
 ☁️ AWS Cloud Club Member  
 💡 Interested in Cloud Security & Networking  
 
@@ -25,7 +24,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,aws,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,aws,html,css,js,c&theme=dark" />
 </p>
 
 ---
@@ -36,12 +35,17 @@
 🔹 Anxiety support  
 🔹 Clean & calming UI  
 
+🔐 **Upcoming: Cybersecurity Mini Tools**  
+🔹 Password strength checker  
+🔹 Basic security utilities  
+🔹 Focus on real-world concepts  
+
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rutva230707-boop&show_icons=true&theme=chartreuse-dark" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=rutva230707-boop&theme=chartreuse-dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rutva230707-boop&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=rutva230707-boop&theme=tokyonight" />
 </p>
 
 ---
@@ -58,4 +62,4 @@
 > Access granted...
 > Initializing Rutva.exe
 > Cybersecurity mode: ON 🔐
-> Status: Learning & Growing 🚀
+> Status: Building | Learning | Improving 🚀
