@@ -4,13 +4,10 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Enthusiast-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF00)
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Learner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Linux](https://img.shields.io/badge/Linux-Beginner-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Active-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)
-![HTML](https://img.shields.io/badge/HTML-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Active-181717?style=for-the-badge&logo=github)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=B.Tech+Student;Cybersecurity+Explorer;AWS+Cloud+Club+Member;Future+Security+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Explorer;AWS+Cloud+Learner;Future+Security+Engineer;Always+Learning..." />
 </p>
 
 ---
@@ -23,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,aws,linux,bash" />
 </p>
@@ -32,9 +29,10 @@
 
 ## 🚀 Projects
 🌿 **Calmify** – Mental Health Website  
-🔹 Breathing exercises  
-🔹 Anxiety support  
-🔹 Clean & calming UI  
+🔗 https://github.com/rutva230707-boop/Calmify  
+- Breathing exercises  
+- Anxiety support  
+- Clean UI  
 
 ---
 
@@ -57,7 +55,6 @@
 ## 🧑‍💻 Cyber Terminal
 ```bash
 > Access granted...
-> Initializing Rutva.exe
-> Loading skills...
+> Loading Rutva.exe
 > Cybersecurity mode: ON 🔐
-> Status: Learning & Growing 🚀
+> Status: Learning | Building | Growing 🚀
