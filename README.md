@@ -1,63 +1,82 @@
-# 👨‍💻 Rutva | Cybersecurity Enthusiast
+# 👨‍💻 Rutva
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Engineering-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Enthusiast-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF00)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Learner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-Beginner-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Active-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)
-![HTML](https://img.shields.io/badge/HTML-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=B.Tech+Student;Cybersecurity+Explorer;AWS+Cloud+Club+Member;Future+Security+Engineer" />
-</p>
+### 🔐 Cybersecurity & Cloud Enthusiast | B.Tech Computer Engineering Student
+
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Engineering-4B0082?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Focused-0A0A0A?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-Active-181717?style=flat-square)
 
 ---
 
 ## 🧠 About Me
-🎓 B.Tech Computer Engineering Student  
-🔐 Passionate about Cybersecurity & Ethical Hacking  
-☁️ AWS Cloud Club Member  
-💡 Interested in Cloud Security & Networking  
+I am a B.Tech Computer Engineering student with a growing interest in **Cybersecurity and Cloud Computing**.  
+Currently focused on building a strong foundation in **Linux, Networking, and Security fundamentals**, while applying knowledge through practical projects.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,aws,linux,bash" />
-</p>
+## 🎯 Career Focus
+Aspiring to build a career in **Cybersecurity**, with a focus on:
+- Network Security  
+- Ethical Hacking (Beginner Level)  
+- Cloud Security (AWS)  
+
+Currently developing skills through hands-on learning and projects.
+
+---
+
+## 🔭 Current Focus
+- Developing **Calmify 🌿** – a mental wellness web platform  
+- Learning **Cybersecurity fundamentals & Ethical Hacking basics**  
+- Exploring **AWS Cloud and Cloud Security concepts**  
+
+---
+
+## ⚡ Technical Skills
+- **Programming:** C, JavaScript  
+- **Web Development:** HTML, CSS  
+- **Tools & Platforms:** Git, GitHub  
+- **Core Areas:** Cybersecurity Basics, Networking, Linux  
+- **Cloud:** AWS (Beginner)  
+
+---
+
+## 🔐 Cybersecurity Learning
+- Basics of Networking & Security Concepts  
+- Linux for security practice  
+- Understanding vulnerabilities and system protection  
+- Exploring ethical hacking fundamentals  
+
+> Actively building practical knowledge in cybersecurity.
 
 ---
 
 ## 🚀 Projects
-🌿 *Calmify* – Mental Health Website  
-🔹 Breathing exercises  
-🔹 Anxiety support  
-🔹 Clean & calming UI  
+### 🌿 Calmify – Mental Health Website  
+🔗 https://github.com/rutva230707-boop/Calmify  
+
+- Designed a calming user interface for mental wellness  
+- Implemented breathing exercises and support sections  
+- Focused on user experience and accessibility  
 
 ---
 
-## 📊 GitHub Stats
+## 💼 What I Bring
+- Strong willingness to learn and adapt  
+- Consistent effort in building technical skills  
+- Basic foundation in cybersecurity and cloud  
+- Interest in solving real-world problems through technology  
+
+---
+
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutva230707-boop&show_icons=true&theme=chartreuse-dark" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutva230707-boop&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rutva230707-boop&show_icons=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rutva230707-boop/rutva230707-boop/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🧑‍💻 Cyber Terminal
-```bash
-> Access granted...
-> Initializing Rutva.exe
-> Loading skills...
-> Cybersecurity mode: ON 🔐
-> Status: Learning & Growing 🚀
+## 📫 Contact
+- 📧 Email: rutva230707@gmail.com  
+- 🔗 LinkedIn: (add your link here)
