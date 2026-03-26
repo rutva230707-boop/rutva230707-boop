@@ -1,5 +1,10 @@
 # 👨‍💻 Rutva | Cybersecurity Enthusiast
 
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-green?style=for-the-badge)
+![Student](https://img.shields.io/badge/Student-B.Tech-blue?style=for-the-badge)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=B.Tech+Student;Cybersecurity+Explorer;AWS+Cloud+Club+Member;Future+Security+Engineer" />
 </p>
